@@ -108,10 +108,6 @@ The system automatically classifies roles as technical or non-technical using pr
    - Check if models are properly installed
    - Run `ollama list` to verify available models
 
-## License
-
-[Your License Here]
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. 
